@@ -1,0 +1,23 @@
+{
+  "name": "carrito",
+  "version": "1.0.0",
+  "description": "carrito de compras con felx box y sass",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-install": "^1.1.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-sass": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ignacio Royo-Villanova",
+  "license": "ISC",
+  "browserslist":[
+    "> 1%",
+    "last 2 versions"
+  ]
+}
